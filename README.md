@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Yermia Turangan**.<br>
+Saya adalah seorang manusia yang berasal dari kota Manado, Sulawesi Utara, Indonesia.
+Saat ini saya sebagai mahasiswa S1 di **Universitas Sam Ratulangi** dengan program studi **Teknik Informatika**
+Saya adalah **DevOps** Sistem Informasi di situs wisata [Wawi Kadio](https://www.facebook.com/profile.php?id=100077360177671) <br>
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yermia-turangan/) saya ya.
