@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Halo semua! 
 
 Perkenalkan nama saya **Yermia Turangan**.<br>
-Saya adalah seorang manusia yang berasal dari kota Manado, Sulawesi Utara, Indonesia.
-Saat ini saya sebagai mahasiswa S1 di **Universitas Sam Ratulangi** dengan program studi **Teknik Informatika**
+Saya adalah seorang manusia yang berasal dari kota Manado, Sulawesi Utara, Indonesia. <br>
+Saat ini saya sebagai mahasiswa S1 di **Universitas Sam Ratulangi** dengan program studi **Teknik Informatika** <br>
 Saya adalah **DevOps** Sistem Informasi di situs wisata [Wawi Kadio](https://www.facebook.com/profile.php?id=100077360177671) <br>
 
 
